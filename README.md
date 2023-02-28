@@ -7,7 +7,7 @@
 
 Este proyecto se llevo a cabo usando herramientas de análisis de datos, tales como son la libreria pandas y matplotlib, en conjunto con la [API COVID](https://covid19api.com/) de la cual se extrajeron los 20 países mas contagiados del mundo y los países con mayor cantidad de muertes del mundo.
 
-## Información clave para comprender el trabajo practico
+## Información clave para comprender el proyecto
 
 - [APIs](https://www.redhat.com/es/topics/api/what-are-application-programming-interfaces)
 - [Python](https://www.python.org/)
