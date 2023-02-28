@@ -1,10 +1,4 @@
-# Trabajo Practico 5
-
-## APIs
-
-### Por: Lucas Manuel Moyano - Juan Manuel de Aragón
-
-### Universidad Blas Pascal
+# APIs y Analisis de Datos con Python
 
 ![API](https://images.squarespace-cdn.com/content/v1/5fab0f557dc65768bf97748a/1614800201272-S6TXOHB3WZ1HKPA1UB92/What-is-an-API.png)
 ---
